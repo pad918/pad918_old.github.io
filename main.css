@@ -1,10 +1,26 @@
 body {
 	background:green;
 	font-family: areal;
+	margin: 0;
+}
+head .projekt{
+	background:green;
+	font-family: areal;
+	background-image: url("bild1.jpg");
+	margin: 0;
 }
 body h1{
 	background:#200;
 	color:red;
 	font-family: areal;
+	margin:0;
 }
+body ul li{
+	backruond:black;
+	display:inline-block;
+	list-style-type: none;
 
+}
+h2{
+	background:black;
+}
