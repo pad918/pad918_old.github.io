@@ -1,8 +1,8 @@
 h2{
-    position: relative;
+    position: absolute;
     font-size: 30px;
-    left:518px;
-    top:450px;
+    left:400px;
+    top:375px;
     color: rgb(150,190,150);
     display: inline;
     margin: 50px;
