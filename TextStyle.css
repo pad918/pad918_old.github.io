@@ -1,0 +1,14 @@
+h2{
+    position: relative;
+    font-size: 30px;
+    left:518px;
+    top:450px;
+    color: rgb(150,190,150);
+    display: inline;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(51,51,51);
+    border:solid 3px;
+    border-color: rgb(currentColor);
+}
